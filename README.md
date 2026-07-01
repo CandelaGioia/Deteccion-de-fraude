@@ -6,5 +6,5 @@ Se basó en el dataset provistor con 150000 muestras y se entrenaron 3 modelos d
 ## Ejecución
 
 1. Clonar el repositorio completo
-2. Correr las celdas del notebook en orden en cómo están presentadas
+2. Correr las celdas del notebook  ``Deteccion de fraude.ipynb`` en orden en cómo están presentadas
 3. Ver resultados impresos en las celdas
